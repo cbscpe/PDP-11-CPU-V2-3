@@ -815,7 +815,7 @@
         "uuid": "84968fd0-ae67-4222-87b4-f9a6ce2da43c"
       }
     ],
-    "used_designators": "JP6,J12",
+    "used_designators": "D1-2,#PWR1-5,#PWR8,#PWR16-17,#PWR21,#PWR40,#PWR43,#PWR48,#PWR64-65,C1-2,Y1,U3-5,R1-5,R8,R21,R24,R26-27,JP6,J12",
     "variants": []
   },
   "sheets": [
@@ -830,6 +830,10 @@
     [
       "1365b152-f7eb-47b6-9147-f2232e4bd52a",
       "UART"
+    ],
+    [
+      "39fe0e0c-e034-45f9-b135-5688abea5ee7",
+      "CPU"
     ],
     [
       "aea09d4f-b4ab-4fc1-a88a-700017e7ba65",
