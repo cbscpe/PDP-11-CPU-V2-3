@@ -4146,6 +4146,10 @@
 		(uuid "bf9741f3-bced-41a6-ad7b-1f4a12819794")
 	)
 	(no_connect
+		(at 127 157.48)
+		(uuid "d19e91d5-2cc1-401c-a0f0-37a0a6f55c44")
+	)
+	(no_connect
 		(at 72.39 124.46)
 		(uuid "e3a50d57-4bad-4771-a137-fd6c498489cc")
 	)
@@ -7209,16 +7213,6 @@
 		)
 		(uuid "b56bdbc9-64df-4bc1-94f0-57dfce9c5fb0")
 	)
-	(label "DAL21"
-		(at 127 157.48 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "b90185b2-6048-4eaf-b169-6c97574f4f8b")
-	)
 	(label "CEU"
 		(at 127 66.04 180)
 		(effects
@@ -7429,7 +7423,7 @@
 		)
 		(uuid "ec57247d-3321-4117-a12f-4f433ffd6804")
 	)
-	(label "BA21"
+	(label "A21"
 		(at 127 63.5 180)
 		(effects
 			(font
@@ -7741,7 +7735,7 @@
 		)
 		(uuid "7a9db01e-67a9-4b53-a8b9-f8bb8f447799")
 	)
-	(hierarchical_label "BA21"
+	(hierarchical_label "A21"
 		(shape input)
 		(at 127 63.5 0)
 		(effects

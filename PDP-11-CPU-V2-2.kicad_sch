@@ -984,6 +984,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 40.64) (xy 43.18 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d717d86-1a02-4c4c-bd3a-addf948a2b8b")
+	)
+	(wire
+		(pts
 			(xy 142.24 63.5) (xy 154.94 63.5)
 		)
 		(stroke
@@ -1221,16 +1231,6 @@
 			(type default)
 		)
 		(uuid "9fc3e937-ed3a-44ec-9031-507f394112b3")
-	)
-	(wire
-		(pts
-			(xy 30.48 139.7) (xy 43.18 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ff2eccb-0dd8-4b84-86f0-1d0194d2b68f")
 	)
 	(wire
 		(pts
@@ -2182,6 +2182,16 @@
 		)
 		(uuid "4fb57ba3-1c7a-4d26-937f-d558ef0b33f8")
 	)
+	(label "A21"
+		(at 30.48 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "500f6cde-9d0a-4f29-852e-da48bc4068c3")
+	)
 	(label "~{TOYCE}"
 		(at 30.48 149.86 0)
 		(effects
@@ -2991,16 +3001,6 @@
 			(justify left bottom)
 		)
 		(uuid "f9e55d9f-fb1e-426b-8529-4e62a4339abd")
-	)
-	(label "BA21"
-		(at 30.48 139.7 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fffb3c8d-babd-4190-8cb3-bf47e5ca667e")
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -5352,16 +5352,6 @@
 				(justify left)
 			)
 		)
-		(pin "BA21" input
-			(at 43.18 139.7 180)
-			(uuid "02f188ab-c2b1-419d-b5b6-5e3396f45188")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "~{BDIN}" input
 			(at 43.18 142.24 180)
 			(uuid "b4cbd126-0077-421b-a1b3-90830e6cb803")
@@ -5445,6 +5435,16 @@
 		(pin "~{BDMR}" input
 			(at 43.18 33.02 180)
 			(uuid "384d1b5e-e153-47d4-9a47-2851a5a91a8d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "A21" input
+			(at 43.18 40.64 180)
+			(uuid "352709e7-7db1-4def-852f-9ddb4a9d60d1")
 			(effects
 				(font
 					(size 1.27 1.27)
