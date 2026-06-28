@@ -4822,7 +4822,7 @@
 		(instances
 			(project "PDP-11-CPU-V2-2"
 				(path "/84968fd0-ae67-4222-87b4-f9a6ce2da43c"
-					(page "3")
+					(page "4")
 				)
 			)
 		)
@@ -4928,7 +4928,7 @@
 		(instances
 			(project "PDP-11-CPU-V2-2"
 				(path "/84968fd0-ae67-4222-87b4-f9a6ce2da43c"
-					(page "5")
+					(page "6")
 				)
 			)
 		)
@@ -5455,7 +5455,7 @@
 		(instances
 			(project "PDP-11-CPU-V2-2"
 				(path "/84968fd0-ae67-4222-87b4-f9a6ce2da43c"
-					(page "4")
+					(page "2")
 				)
 			)
 		)
@@ -5701,7 +5701,7 @@
 		(instances
 			(project "PDP-11-CPU-V2-2"
 				(path "/84968fd0-ae67-4222-87b4-f9a6ce2da43c"
-					(page "2")
+					(page "3")
 				)
 			)
 		)
