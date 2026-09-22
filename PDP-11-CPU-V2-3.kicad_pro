@@ -514,7 +514,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PDP-11-CPU-V2-2.kicad_pro",
+    "filename": "PDP-11-CPU-V2-3.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -810,18 +810,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "PDP-11-CPU-V2-2.kicad_sch",
-        "name": "PDP-11-CPU-V2-2",
+        "filename": "PDP-11-CPU-V2-3.kicad_sch",
+        "name": "PDP-11-CPU-V2-3",
         "uuid": "84968fd0-ae67-4222-87b4-f9a6ce2da43c"
       }
     ],
-    "used_designators": "JP6",
+    "used_designators": "#PWR145,#PWR147,J2",
     "variants": []
   },
   "sheets": [
     [
       "84968fd0-ae67-4222-87b4-f9a6ce2da43c",
-      "PDP-11-CPU-V2-2"
+      "PDP-11-CPU-V2-3"
     ],
     [
       "39fe0e0c-e034-45f9-b135-5688abea5ee7",
