@@ -3785,12 +3785,6 @@
 		(uuid "1588a8ce-64ee-4317-a01e-0a234f0c3f3d")
 	)
 	(junction
-		(at 251.46 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "240ca7d1-42f0-4b1a-bbed-0e46c69e9afd")
-	)
-	(junction
 		(at 110.49 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3807,12 +3801,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4afe4edb-3b2e-4829-bea2-7c73876838ae")
-	)
-	(junction
-		(at 251.46 121.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "51783db6-51b3-428d-a527-4639a6d14733")
 	)
 	(junction
 		(at 251.46 134.62)
@@ -4015,16 +4003,6 @@
 	(no_connect
 		(at 175.26 96.52)
 		(uuid "f638642c-2397-46ab-9d9a-5a76353c9900")
-	)
-	(wire
-		(pts
-			(xy 254 121.92) (xy 251.46 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "00ac3f1d-1c43-4595-8bba-aeea788de9a1")
 	)
 	(wire
 		(pts
@@ -4388,16 +4366,6 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 121.92) (xy 251.46 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "256321bf-48f9-4e82-87ee-a2e629ee0a2d")
-	)
-	(wire
-		(pts
 			(xy 133.35 189.23) (xy 133.35 187.96)
 		)
 		(stroke
@@ -4485,16 +4453,6 @@
 			(type default)
 		)
 		(uuid "355a532f-37bb-48cc-b4af-9c33d91f1e2d")
-	)
-	(wire
-		(pts
-			(xy 251.46 90.17) (xy 251.46 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "359a54d4-ea2d-48b2-ba89-3feccdc131ae")
 	)
 	(wire
 		(pts
@@ -5058,16 +5016,6 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 121.92) (xy 270.51 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7cff2031-ee3a-489d-8caa-1f7d5736bd4a")
-	)
-	(wire
-		(pts
 			(xy 36.83 147.32) (xy 50.8 147.32)
 		)
 		(stroke
@@ -5075,16 +5023,6 @@
 			(type default)
 		)
 		(uuid "7d67a25a-8130-4491-8718-63eb853e8d20")
-	)
-	(wire
-		(pts
-			(xy 261.62 83.82) (xy 270.51 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f0a9cb8-2037-42ca-9b90-7492fe99ac93")
 	)
 	(wire
 		(pts
@@ -5308,7 +5246,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 83.82) (xy 251.46 77.47)
+			(xy 251.46 77.47) (xy 251.46 90.17)
 		)
 		(stroke
 			(width 0)
@@ -5375,16 +5313,6 @@
 			(type default)
 		)
 		(uuid "93d9a409-7c47-49f6-9fab-a49398a21538")
-	)
-	(wire
-		(pts
-			(xy 254 83.82) (xy 251.46 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9539294c-1633-4a0f-b857-f2b6c0b3d219")
 	)
 	(wire
 		(pts
@@ -6138,7 +6066,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 128.27) (xy 251.46 121.92)
+			(xy 251.46 115.57) (xy 251.46 128.27)
 		)
 		(stroke
 			(width 0)
@@ -6445,16 +6373,6 @@
 			(justify right bottom)
 		)
 		(uuid "230407a8-9e71-4b22-b4ff-7f41a0366b92")
-	)
-	(label "~{BDMGO}"
-		(at 270.51 83.82 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "246fe923-01b2-457f-b3dc-739b3ca03a88")
 	)
 	(label "VBAT"
 		(at 165.1 101.6 0)
@@ -6935,16 +6853,6 @@
 			(justify left bottom)
 		)
 		(uuid "896b255a-e285-4f60-a57b-6b43cce43625")
-	)
-	(label "~{BIAKO}"
-		(at 270.51 121.92 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "8c41acb7-9d7b-4e19-b760-07565b06b360")
 	)
 	(label "BA6"
 		(at 135.89 62.23 180)
@@ -10066,85 +9974,6 @@
 			(project "PDP-11-CPU-V2-3"
 				(path "/84968fd0-ae67-4222-87b4-f9a6ce2da43c/aea09d4f-b4ab-4fc1-a88a-700017e7ba65"
 					(reference "#PWR095")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 257.81 83.82 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "6839de8c-80ec-4b7c-a725-3462655a8546")
-		(property "Reference" "R12"
-			(at 257.81 81.28 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "120"
-			(at 257.81 83.82 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 257.81 85.598 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 257.81 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 257.81 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b38cf123-7258-4183-8a2a-c1405112acb4")
-		)
-		(pin "2"
-			(uuid "aeb0a3a0-02a9-44e0-9d86-ec736cb5d9d4")
-		)
-		(instances
-			(project "PDP-11-CPU-V2-3"
-				(path "/84968fd0-ae67-4222-87b4-f9a6ce2da43c/aea09d4f-b4ab-4fc1-a88a-700017e7ba65"
-					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -13819,85 +13648,6 @@
 			(project "PDP-11-CPU-V2-3"
 				(path "/84968fd0-ae67-4222-87b4-f9a6ce2da43c/aea09d4f-b4ab-4fc1-a88a-700017e7ba65"
 					(reference "R13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 257.81 121.92 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d884106a-227d-4f3b-97b1-6902b1762e62")
-		(property "Reference" "R18"
-			(at 257.81 119.38 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "120"
-			(at 257.81 121.92 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 257.81 123.698 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 257.81 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 257.81 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5453973f-3e19-4d33-a041-0a6e19d164aa")
-		)
-		(pin "2"
-			(uuid "fa25d71d-b251-4510-aaae-e66e31c66b00")
-		)
-		(instances
-			(project "PDP-11-CPU-V2-3"
-				(path "/84968fd0-ae67-4222-87b4-f9a6ce2da43c/aea09d4f-b4ab-4fc1-a88a-700017e7ba65"
-					(reference "R18")
 					(unit 1)
 				)
 			)
