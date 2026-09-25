@@ -6295,7 +6295,7 @@
 		(uuid "1d0e08f3-5d2f-47d6-9f8c-acca40f10408")
 	)
 	(label "BA9"
-		(at 135.89 67.31 180)
+		(at 135.89 72.39 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6335,7 +6335,7 @@
 		(uuid "1e52bb30-4076-4f76-b68f-c9a2fcabe269")
 	)
 	(label "A19"
-		(at 76.2 123.19 180)
+		(at 76.2 120.65 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6515,7 +6515,7 @@
 		(uuid "3ec6dd6c-3ca5-47b4-957a-2a9962d808cc")
 	)
 	(label "BA12"
-		(at 135.89 80.01 180)
+		(at 135.89 77.47 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6545,7 +6545,7 @@
 		(uuid "53386fe9-25f1-474a-a316-6873c0c0235c")
 	)
 	(label "BA14"
-		(at 135.89 64.77 180)
+		(at 135.89 67.31 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6555,7 +6555,7 @@
 		(uuid "540105a9-0542-4476-a38e-bbe7f4ffdbc2")
 	)
 	(label "DAL6"
-		(at 90.17 62.23 0)
+		(at 90.17 64.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6585,7 +6585,7 @@
 		(uuid "5cd327b8-29ae-4f95-9df9-cb50a1577857")
 	)
 	(label "BA20"
-		(at 135.89 120.65 180)
+		(at 135.89 128.27 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6705,7 +6705,7 @@
 		(uuid "726d1b19-f1e3-43de-8439-2041242b1c1c")
 	)
 	(label "BA17"
-		(at 135.89 128.27 180)
+		(at 135.89 125.73 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6755,7 +6755,7 @@
 		(uuid "777e3ead-4859-4828-8eae-6d39d0c6e590")
 	)
 	(label "DAL9"
-		(at 90.17 67.31 0)
+		(at 90.17 69.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6785,7 +6785,7 @@
 		(uuid "7a6fa237-dfc4-40ef-8d79-b14e529a1ab8")
 	)
 	(label "A18"
-		(at 76.2 125.73 180)
+		(at 76.2 123.19 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6795,7 +6795,7 @@
 		(uuid "7d0e75d3-c5c3-4728-978b-2352e75805eb")
 	)
 	(label "A20"
-		(at 76.2 120.65 180)
+		(at 76.2 128.27 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6895,7 +6895,7 @@
 		(uuid "99dbe24f-53d4-461a-9d3e-931461519b6b")
 	)
 	(label "BA10"
-		(at 135.89 77.47 180)
+		(at 135.89 69.85 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6915,7 +6915,7 @@
 		(uuid "a06dc09c-fdc0-44de-9b8b-cca25af9d372")
 	)
 	(label "BA15"
-		(at 135.89 74.93 180)
+		(at 135.89 80.01 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7015,7 +7015,7 @@
 		(uuid "b15be9ed-c707-48e2-ae70-dd412b9a6508")
 	)
 	(label "DAL13"
-		(at 90.17 69.85 0)
+		(at 90.17 67.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7025,7 +7025,7 @@
 		(uuid "b18a2e5b-7612-4ddb-948c-2808fbdc2ac2")
 	)
 	(label "A17"
-		(at 90.17 128.27 0)
+		(at 90.17 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7045,7 +7045,7 @@
 		(uuid "b545aa2f-24a7-4ea8-9a03-4ee86a8ce26d")
 	)
 	(label "BA13"
-		(at 135.89 69.85 180)
+		(at 135.89 74.93 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7055,7 +7055,7 @@
 		(uuid "bb7b110d-5c64-4fb9-bff9-193f34978021")
 	)
 	(label "BA19"
-		(at 135.89 123.19 180)
+		(at 135.89 120.65 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7065,7 +7065,7 @@
 		(uuid "be551f1e-1773-4969-acdc-294ccd0a17a7")
 	)
 	(label "A20"
-		(at 90.17 120.65 0)
+		(at 90.17 128.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7095,7 +7095,7 @@
 		(uuid "c2cda09f-ca92-49a2-9f47-5fd2061000df")
 	)
 	(label "BA11"
-		(at 135.89 72.39 180)
+		(at 135.89 64.77 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7195,7 +7195,7 @@
 		(uuid "d8616b45-1920-479f-834f-b28404608052")
 	)
 	(label "DAL14"
-		(at 90.17 64.77 0)
+		(at 90.17 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7255,7 +7255,7 @@
 		(uuid "e2940f9c-436e-44c8-bbfb-d233eb65b2ce")
 	)
 	(label "A18"
-		(at 90.17 125.73 0)
+		(at 90.17 123.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7265,7 +7265,7 @@
 		(uuid "e35c1b84-1569-47bb-b7a0-873e099275f4")
 	)
 	(label "A17"
-		(at 76.2 128.27 180)
+		(at 76.2 125.73 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7275,7 +7275,7 @@
 		(uuid "e50d3d68-8770-420b-b6e1-10e819cbe469")
 	)
 	(label "BA18"
-		(at 135.89 125.73 180)
+		(at 135.89 123.19 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7305,7 +7305,7 @@
 		(uuid "ea6026f6-15ec-4573-b7fe-ad43f9295d2b")
 	)
 	(label "A19"
-		(at 90.17 123.19 0)
+		(at 90.17 120.65 0)
 		(effects
 			(font
 				(size 1.27 1.27)
