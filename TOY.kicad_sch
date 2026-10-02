@@ -3594,16 +3594,6 @@
 		)
 		(uuid "f9d98fdf-16fc-48e3-8bf4-c4ad2f150d6b")
 	)
-	(label "~{TOYOE}"
-		(at 186.69 78.74 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "048da222-4338-4c68-ba69-a6f9b38e7ee6")
-	)
 	(label "VBAT"
 		(at 77.47 49.53 0)
 		(effects
@@ -3733,16 +3723,6 @@
 			(justify left bottom)
 		)
 		(uuid "a7b112bf-c9f8-4038-9fd6-ca5d6d4e0c66")
-	)
-	(label "~{TOYWE}"
-		(at 74.93 73.66 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b2c91ef5-3728-478f-b51c-1a86f764bf6b")
 	)
 	(label "VBAT"
 		(at 87.63 127 0)
@@ -3878,17 +3858,6 @@
 		)
 		(uuid "2b14f950-150a-4cdc-9b9e-662a29f4d93f")
 	)
-	(hierarchical_label "~{TOYWE}"
-		(shape input)
-		(at 74.93 73.66 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "3fbe45ec-c536-4887-89db-679ccf6ab9f2")
-	)
 	(hierarchical_label "~{TOYCE}"
 		(shape input)
 		(at 165.1 81.28 0)
@@ -3932,17 +3901,6 @@
 			(justify left)
 		)
 		(uuid "75836d6b-9be2-41df-b5ae-e6f9e50e8d4e")
-	)
-	(hierarchical_label "~{TOYOE}"
-		(shape input)
-		(at 186.69 78.74 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "804dcd1d-0136-4cf8-b742-41dbc6c90b58")
 	)
 	(hierarchical_label "~{CE1}"
 		(shape input)

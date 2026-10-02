@@ -844,16 +844,6 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 53.34) (xy 105.41 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "48c7d1c0-8e3d-48b3-a241-f3af0633ef9c")
-	)
-	(wire
-		(pts
 			(xy 105.41 43.18) (xy 92.71 43.18)
 		)
 		(stroke
@@ -861,16 +851,6 @@
 			(type default)
 		)
 		(uuid "49ab48c6-104f-4126-b92f-f660ecde075c")
-	)
-	(wire
-		(pts
-			(xy 30.48 73.66) (xy 43.18 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4de40133-1cd1-4057-8276-a373375db70a")
 	)
 	(wire
 		(pts
@@ -954,16 +934,6 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 76.2) (xy 43.18 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5f391acd-1995-4a14-82f8-2ba5db3b8782")
-	)
-	(wire
-		(pts
 			(xy 30.48 109.22) (xy 43.18 109.22)
 		)
 		(stroke
@@ -971,16 +941,6 @@
 			(type default)
 		)
 		(uuid "6119b6c9-765b-4441-bf05-c4a9bf57c98a")
-	)
-	(wire
-		(pts
-			(xy 92.71 55.88) (xy 105.41 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "626f1186-7496-406e-9742-23a543d38a3d")
 	)
 	(wire
 		(pts
@@ -1374,16 +1334,6 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 154.94) (xy 43.18 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac617899-1bb7-418a-921a-d810af5c849e")
-	)
-	(wire
-		(pts
 			(xy 30.48 45.72) (xy 43.18 45.72)
 		)
 		(stroke
@@ -1491,16 +1441,6 @@
 			(type default)
 		)
 		(uuid "c2b51879-2fb9-484c-b261-afa8e4fe21c3")
-	)
-	(wire
-		(pts
-			(xy 240.03 27.94) (xy 254 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c6775183-4fb3-4031-bcb8-ff5eca14124e")
 	)
 	(wire
 		(pts
@@ -1664,16 +1604,6 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 144.78) (xy 43.18 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ddb4f61f-4aa8-4740-9db0-cd26d78567e4")
-	)
-	(wire
-		(pts
 			(xy 30.48 38.1) (xy 43.18 38.1)
 		)
 		(stroke
@@ -1681,16 +1611,6 @@
 			(type default)
 		)
 		(uuid "de11e2b9-6a33-4c12-b011-b7228527f58b")
-	)
-	(wire
-		(pts
-			(xy 240.03 25.4) (xy 254 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e22defa6-965a-4163-8ba2-ae216b83e07c")
 	)
 	(wire
 		(pts
@@ -2092,16 +2012,6 @@
 		)
 		(uuid "2f4d6d16-9a25-471a-94d9-362791264c2b")
 	)
-	(label "~{TOYWE}"
-		(at 240.03 27.94 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "31cc0818-23b6-46e5-b18f-5a0a9b494474")
-	)
 	(label "A[16..21]"
 		(at 187.96 22.86 0)
 		(effects
@@ -2222,16 +2132,6 @@
 		)
 		(uuid "4a6eedc7-5222-40e6-9b67-7209195d4e21")
 	)
-	(label "~{TOYWE}"
-		(at 30.48 144.78 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4fb57ba3-1c7a-4d26-937f-d558ef0b33f8")
-	)
 	(label "~{TOYCE}"
 		(at 30.48 149.86 0)
 		(effects
@@ -2281,16 +2181,6 @@
 			(justify left bottom)
 		)
 		(uuid "5747c44d-c432-4eee-aeba-5125663a878c")
-	)
-	(label "CLKB"
-		(at 92.71 53.34 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5806924a-88e5-44df-a9d3-6844297e41dc")
 	)
 	(label "~{BIAKO}"
 		(at 142.24 48.26 0)
@@ -2652,16 +2542,6 @@
 		)
 		(uuid "ae8f4b77-2860-4ec8-bb8d-7c7f0a2cdad6")
 	)
-	(label "MCLK"
-		(at 30.48 73.66 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b30b7474-23ed-440e-8c8f-729ee1b38937")
-	)
 	(label "RCVIRQA"
 		(at 92.71 22.86 0)
 		(effects
@@ -2711,16 +2591,6 @@
 			(justify left bottom)
 		)
 		(uuid "bf807699-2275-4aec-aba2-6cc5e514a479")
-	)
-	(label "CLKB"
-		(at 30.48 76.2 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c14caab2-95dc-43f0-898a-600340df7644")
 	)
 	(label "~{SLU}"
 		(at 92.71 40.64 0)
@@ -2782,16 +2652,6 @@
 		)
 		(uuid "c87194ed-a1e3-42c3-9d22-95b926e24b13")
 	)
-	(label "MCLK"
-		(at 92.71 55.88 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ca2f3eba-b618-4c64-aaec-a4f6e36165da")
-	)
 	(label "~{BDIN}"
 		(at 30.48 142.24 0)
 		(effects
@@ -2811,16 +2671,6 @@
 			(justify left bottom)
 		)
 		(uuid "d2813ad4-8ab2-40a9-8829-19f113583049")
-	)
-	(label "~{TOYOE}"
-		(at 30.48 154.94 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d2dc1f83-41df-4637-9b19-eb1bba2e7390")
 	)
 	(label "TOYD"
 		(at 240.03 20.32 0)
@@ -2861,16 +2711,6 @@
 			(justify left bottom)
 		)
 		(uuid "da3a4108-6964-4e0a-9fbc-ae7e525700e0")
-	)
-	(label "~{TOYOE}"
-		(at 240.03 25.4 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "dca47508-d0b6-4ccb-bd90-96e586825f10")
 	)
 	(label "DAL[0..21]"
 		(at 187.96 20.32 0)
@@ -6197,26 +6037,6 @@
 				(justify left)
 			)
 		)
-		(pin "CLKB" input
-			(at 105.41 53.34 180)
-			(uuid "9e062333-972a-4a6c-8b29-d30d7167db7f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "MCLK" input
-			(at 105.41 55.88 180)
-			(uuid "0a33de04-1aaa-4499-baec-d0a7a4fc840e")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(instances
 			(project "PDP-11-CPU-V2-3"
 				(path "/84968fd0-ae67-4222-87b4-f9a6ce2da43c"
@@ -6266,26 +6086,6 @@
 		(pin "TOYD" input
 			(at 254 20.32 180)
 			(uuid "f8414daf-baa7-4571-b1cf-55ce3cb7b2b7")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "~{TOYOE}" input
-			(at 254 25.4 180)
-			(uuid "a447ee44-267d-4f8d-9fd9-1e3c05842415")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "~{TOYWE}" input
-			(at 254 27.94 180)
-			(uuid "37bd78ac-2093-4e9c-aaa6-c5aaba8775b9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6750,16 +6550,6 @@
 				(justify left)
 			)
 		)
-		(pin "~{TOYWE}" input
-			(at 43.18 144.78 180)
-			(uuid "a9ac8400-1f84-4652-9168-d2d20444a7c1")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "INIT" input
 			(at 43.18 147.32 180)
 			(uuid "3b11ee08-0fb5-490a-b4de-639466b593ec")
@@ -6783,16 +6573,6 @@
 		(pin "TOYD" input
 			(at 43.18 152.4 180)
 			(uuid "17fa04e9-b352-478b-b7b7-af2609b18499")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "~{TOYOE}" input
-			(at 43.18 154.94 180)
-			(uuid "9f927d14-bb80-41cc-8575-ed54fecd30e7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6893,26 +6673,6 @@
 		(pin "XMTIRQC" input
 			(at 43.18 104.14 180)
 			(uuid "1f97992a-190d-4f7e-a0c9-1cd8d1655e2f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "MCLK" input
-			(at 43.18 73.66 180)
-			(uuid "50312e7f-5ab6-4277-983e-72c74d9faa82")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "CLKB" input
-			(at 43.18 76.2 180)
-			(uuid "d7ba8701-c641-449e-9439-6ad147aaf141")
 			(effects
 				(font
 					(size 1.27 1.27)

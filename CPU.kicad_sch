@@ -4768,12 +4768,32 @@
 		(uuid "c7e4f4a8-5506-4679-a141-d12460b383e3")
 	)
 	(no_connect
-		(at 83.82 167.64)
+		(at 72.39 167.64)
 		(uuid "134843b6-b099-47fe-8c9a-7996d133470f")
 	)
 	(no_connect
 		(at 232.41 53.34)
 		(uuid "17eda947-d6dc-4690-ad7d-6099d71ed1a3")
+	)
+	(no_connect
+		(at 27.94 149.86)
+		(uuid "49d91e12-1b83-4e4b-8f64-f0da385cd32a")
+	)
+	(no_connect
+		(at 127 83.82)
+		(uuid "4e9aa826-4606-4098-9fc7-dd89b9ff491f")
+	)
+	(no_connect
+		(at 72.39 121.92)
+		(uuid "63b330a5-05a1-4728-b763-b2ada45fd35d")
+	)
+	(no_connect
+		(at 40.64 157.48)
+		(uuid "786d9af0-ed15-4a37-aabe-adf7028fbf1f")
+	)
+	(no_connect
+		(at 40.64 160.02)
+		(uuid "9d1d429d-7f13-4abb-854e-7c050fcf0280")
 	)
 	(no_connect
 		(at 210.82 60.96)
@@ -5828,6 +5848,16 @@
 			(type default)
 		)
 		(uuid "7b1cfe8d-b548-420b-9c67-15f6354ec9c1")
+	)
+	(wire
+		(pts
+			(xy 72.39 167.64) (xy 83.82 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b46f55e-52f1-445f-9ff9-202d26fd2d37")
 	)
 	(wire
 		(pts
@@ -7029,16 +7059,6 @@
 		)
 		(uuid "13380d5e-b65b-4ac1-abe2-4e9d78799d23")
 	)
-	(label "CLKB"
-		(at 72.39 121.92 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1656181a-5c15-46c8-bb50-500e68ea9176")
-	)
 	(label "DAL6"
 		(at 72.39 99.06 0)
 		(effects
@@ -8229,16 +8249,6 @@
 		)
 		(uuid "fad4d02d-de44-49e0-9693-ef836cb38844")
 	)
-	(label "MCLK"
-		(at 127 83.82 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "fbba5ddc-1fb8-4c5a-b1ab-8c66d261af18")
-	)
 	(label "~{CONT}"
 		(at 127 99.06 180)
 		(effects
@@ -8412,17 +8422,6 @@
 		)
 		(uuid "53f75fe2-fa31-4c03-9ccb-86212eb60029")
 	)
-	(hierarchical_label "CLKB"
-		(shape input)
-		(at 72.39 121.92 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "54d29f23-ab37-4013-ae10-84e9214a2330")
-	)
 	(hierarchical_label "DAL[0..21]"
 		(shape input)
 		(at 266.7 22.86 0)
@@ -8532,17 +8531,6 @@
 			(justify left)
 		)
 		(uuid "9a2beb82-cdb1-4ae1-90e3-b31055da29e1")
-	)
-	(hierarchical_label "MCLK"
-		(shape input)
-		(at 127 83.82 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a55ddf7f-fca3-4341-b217-19a044fe2f89")
 	)
 	(hierarchical_label "INIT"
 		(shape input)
