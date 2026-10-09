@@ -4784,10 +4784,6 @@
 		(uuid "4e9aa826-4606-4098-9fc7-dd89b9ff491f")
 	)
 	(no_connect
-		(at 72.39 121.92)
-		(uuid "63b330a5-05a1-4728-b763-b2ada45fd35d")
-	)
-	(no_connect
 		(at 40.64 157.48)
 		(uuid "786d9af0-ed15-4a37-aabe-adf7028fbf1f")
 	)
@@ -8229,6 +8225,16 @@
 		)
 		(uuid "f1a3e324-0746-464e-b9c9-fa8c1f4f9160")
 	)
+	(label "BRKIRQC"
+		(at 72.39 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f4db1ef6-dc26-47a1-9e20-316bfe74095c")
+	)
 	(label "AIO2"
 		(at 245.11 72.39 180)
 		(effects
@@ -8498,6 +8504,17 @@
 			(justify right)
 		)
 		(uuid "7a9db01e-67a9-4b53-a8b9-f8bb8f447799")
+	)
+	(hierarchical_label "BRKIRQC"
+		(shape input)
+		(at 72.39 121.92 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "85846c7f-6b4f-4039-98b4-ef3a9a7c7745")
 	)
 	(hierarchical_label "RCVIRQC"
 		(shape input)

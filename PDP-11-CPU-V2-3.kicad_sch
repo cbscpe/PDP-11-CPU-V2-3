@@ -521,10 +521,6 @@
 		)
 	)
 	(no_connect
-		(at 92.71 33.02)
-		(uuid "2ec11e14-ce50-4dac-9db9-721c2c78cb8d")
-	)
-	(no_connect
 		(at 142.24 45.72)
 		(uuid "55da351a-c3a1-4b58-8ffb-43d966474b6b")
 	)
@@ -1734,6 +1730,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 50.8) (xy 43.18 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd0424dc-84c3-4971-8892-156f5dfc4ac5")
+	)
+	(wire
+		(pts
 			(xy 240.03 30.48) (xy 254 30.48)
 		)
 		(stroke
@@ -1901,6 +1907,16 @@
 			(justify left bottom)
 		)
 		(uuid "1c623572-54df-4bd8-9134-f1f15a2e0aff")
+	)
+	(label "BRKIRQC"
+		(at 30.48 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1e33eb40-0b7c-498b-83d2-4a63348097c3")
 	)
 	(label "A1"
 		(at 187.96 25.4 0)
@@ -2251,6 +2267,16 @@
 			(justify left bottom)
 		)
 		(uuid "69a4f8f6-d729-46ed-883b-1fe239f135c1")
+	)
+	(label "BRKIRQC"
+		(at 92.71 33.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6a9d7168-5f1f-4b7d-b2c5-a2f84b00968a")
 	)
 	(label "~{WE}"
 		(at 240.03 58.42 0)
@@ -6673,6 +6699,16 @@
 		(pin "XMTIRQC" input
 			(at 43.18 104.14 180)
 			(uuid "1f97992a-190d-4f7e-a0c9-1cd8d1655e2f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BRKIRQC" input
+			(at 43.18 50.8 180)
+			(uuid "e8f6032f-fa85-446c-99ca-fff0a8e76d1c")
 			(effects
 				(font
 					(size 1.27 1.27)
