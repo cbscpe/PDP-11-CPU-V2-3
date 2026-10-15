@@ -29420,7 +29420,7 @@
 		(descr "SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip")
 		(tags "net tie solder jumper bridged")
 		(property "Reference" "JP2"
-			(at 0 1.8 90)
+			(at 0 -2.645 90)
 			(layer "B.SilkS")
 			(uuid "f4a04608-c415-4857-9910-a8425c8f4619")
 			(effects
@@ -31694,6 +31694,30 @@
 			)
 		)
 	)
+	(gr_text "LTC DC319"
+		(at 130.81 126.1 0)
+		(layer "B.SilkS")
+		(uuid "75ad51c3-e77a-443a-abb8-46986fe90f23")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "~{BEVENT}"
+		(at 130.81 128.905 0)
+		(layer "B.SilkS")
+		(uuid "7f85c031-e2ca-4516-bb72-b8c5967c939e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "50HZ"
 		(at 100.965 66.675 0)
 		(layer "B.SilkS")
@@ -31716,6 +31740,30 @@
 				(thickness 0.1)
 			)
 			(justify mirror)
+		)
+	)
+	(gr_text "Power Fail"
+		(at 200.66 117.475 90)
+		(layer "B.SilkS")
+		(uuid "32fd4859-291e-4c9b-bd90-0bf26eb700c6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "Low Voltage"
+		(at 203.13 117.451 90)
+		(layer "B.SilkS")
+		(uuid "ed8607b4-81ad-4dfb-a6c7-a2b68fd2dc68")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "https://www.5volts.ch/pages/pdp11hack/"
