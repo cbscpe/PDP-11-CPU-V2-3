@@ -6335,7 +6335,7 @@
 		(uuid "1e52bb30-4076-4f76-b68f-c9a2fcabe269")
 	)
 	(label "A19"
-		(at 76.2 120.65 180)
+		(at 76.2 123.19 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6345,7 +6345,7 @@
 		(uuid "1e84ed4c-2867-4392-be5a-e6544cbfadec")
 	)
 	(label "DAL10"
-		(at 90.17 77.47 0)
+		(at 90.17 69.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6555,7 +6555,7 @@
 		(uuid "540105a9-0542-4476-a38e-bbe7f4ffdbc2")
 	)
 	(label "DAL6"
-		(at 90.17 64.77 0)
+		(at 90.17 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6575,7 +6575,7 @@
 		(uuid "5c4c5824-daac-4047-b035-1634bb5eda80")
 	)
 	(label "DAL12"
-		(at 90.17 80.01 0)
+		(at 90.17 77.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6675,7 +6675,7 @@
 		(uuid "6e1047d3-23c3-42ff-91f1-c7d6501a4551")
 	)
 	(label "DAL15"
-		(at 90.17 74.93 0)
+		(at 90.17 80.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6755,7 +6755,7 @@
 		(uuid "777e3ead-4859-4828-8eae-6d39d0c6e590")
 	)
 	(label "DAL9"
-		(at 90.17 69.85 0)
+		(at 90.17 72.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6785,7 +6785,7 @@
 		(uuid "7a6fa237-dfc4-40ef-8d79-b14e529a1ab8")
 	)
 	(label "A18"
-		(at 76.2 123.19 180)
+		(at 76.2 125.73 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6795,7 +6795,7 @@
 		(uuid "7d0e75d3-c5c3-4728-978b-2352e75805eb")
 	)
 	(label "A20"
-		(at 76.2 128.27 180)
+		(at 76.2 120.65 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6985,7 +6985,7 @@
 		(uuid "ae2ed030-dc52-4d19-a423-3f884193adbd")
 	)
 	(label "DAL11"
-		(at 90.17 72.39 0)
+		(at 90.17 64.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7015,7 +7015,7 @@
 		(uuid "b15be9ed-c707-48e2-ae70-dd412b9a6508")
 	)
 	(label "DAL13"
-		(at 90.17 67.31 0)
+		(at 90.17 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7195,7 +7195,7 @@
 		(uuid "d8616b45-1920-479f-834f-b28404608052")
 	)
 	(label "DAL14"
-		(at 90.17 62.23 0)
+		(at 90.17 67.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7265,7 +7265,7 @@
 		(uuid "e35c1b84-1569-47bb-b7a0-873e099275f4")
 	)
 	(label "A17"
-		(at 76.2 125.73 180)
+		(at 76.2 128.27 180)
 		(effects
 			(font
 				(size 1.27 1.27)
