@@ -3750,7 +3750,7 @@
 		)
 		(uuid "258b3bb6-4b4c-4d76-9f43-3a71297d1081")
 	)
-	(label "battok"
+	(label "batt_ok"
 		(at 127 132.08 180)
 		(effects
 			(font
