@@ -15,7 +15,9 @@ functions. Most notably the new CPU card has the following features
 
 - DCJ11 processor running up to 22MHz
 - 2 or 4 Mbyte of RAM, a PDP-11 can have a maximum of 4Mbyte
-- BootROM at the standard IO page addresses 173xxx and 165xxx
+- power-up configuration with all 16 bits valid
+- maintenance register with all 16 bits valid
+- BootROM at the standard IO page addresses 173xxx<sub>8</sub> and 165xxx<sub>8</sub>
 - Console using a DC319
 - Additional SLU using a second DC319
 - Line-time clock
