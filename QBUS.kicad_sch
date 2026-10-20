@@ -5,10 +5,11 @@
 	(uuid "9b6b91aa-1e7d-4c2d-9e8f-a43fc1bd4b3b")
 	(paper "A4")
 	(title_block
-		(title "Modular PDP-11/Hack CPU")
-		(date "2026-04-03")
-		(rev "V2-2")
-		(comment 3 "CPU V2-2 w/ 4Mbyte RAM and on-board IO")
+		(title "Modular PDP-11/Hack CPU V2-3")
+		(date "2026-10-20")
+		(rev "1")
+		(comment 3 "Bus Drivers and O.C. Termination")
+		(comment 4 "Copyright Peter Schranz 2026")
 	)
 	(lib_symbols
 		(symbol "74xx:74HCT574"

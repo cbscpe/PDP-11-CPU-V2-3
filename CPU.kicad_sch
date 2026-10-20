@@ -5,9 +5,11 @@
 	(uuid "5100c4aa-3601-42f5-a6c4-710da38fb187")
 	(paper "A4")
 	(title_block
-		(title "Modular PDP-11/Hack CPU")
-		(date "2026-04-03")
-		(rev "V2-2")
+		(title "Modular PDP-11/Hack CPU V2-3")
+		(date "2026-10-20")
+		(rev "1")
+		(comment 3 "DCJ11 CPU and ATF1508 CPLD")
+		(comment 4 "Copyright Peter Schranz 2026")
 	)
 	(lib_symbols
 		(symbol "Connector:AVR-JTAG-10"
