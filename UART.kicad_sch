@@ -6735,7 +6735,7 @@
 		(dnp no)
 		(uuid "3d14f8b2-ce37-4184-ba76-a2b2e70b98c6")
 		(property "Reference" "J13"
-			(at 223.52 124.46 0)
+			(at 223.52 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
