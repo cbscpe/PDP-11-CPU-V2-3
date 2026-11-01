@@ -10220,7 +10220,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_TXC_7A-2Pin_5x3.2mm"
+		(property "Footprint" "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering"
 			(at 207.01 45.72 0)
 			(hide yes)
 			(show_name no)

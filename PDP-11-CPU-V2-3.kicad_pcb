@@ -18303,14 +18303,13 @@
 			)
 		)
 	)
-	(footprint "Crystal:Crystal_SMD_TXC_7A-2Pin_5x3.2mm"
+	(footprint "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering"
 		(layer "F.Cu")
 		(uuid "aa63995b-356c-448e-be29-818e2f7f7e9b")
 		(at 168.91 95.25)
-		(descr "SMD Crystal TXC 7A http://txccrystal.com/images/pdf/7a.pdf")
-		(tags "SMD SMT crystal")
+		(descr "SMD2520/2, Crystal, 5.0x3.2mm package, SMD, hand-soldering, http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf")
 		(property "Reference" "Y1"
-			(at 0 -2.5 0)
+			(at 0 -2.8 0)
 			(layer "F.SilkS")
 			(uuid "04a4331a-13ad-4552-8ef7-1fbb6e745612")
 			(effects
@@ -18321,7 +18320,7 @@
 			)
 		)
 		(property "Value" "18MHz"
-			(at 0 -2.54 0)
+			(at 0 2.8 0)
 			(layer "F.Fab")
 			(uuid "8958cc36-f62a-46fc-8cb3-0ba4e88bc907")
 			(effects
@@ -18333,26 +18332,34 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
-			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "75a5dc06-14a6-429e-80c7-a7f1e294136b")
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
 				)
 			)
 		)
 		(property "Description" "Two pin crystal"
 			(at 0 0 0)
-			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cfcc0c74-c7bf-4c1a-b8c0-8b5f19874a7c")
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "crystal_resonator_oscillator"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "7efd72ad-368a-4d8f-ad1a-ee9bd5f24604")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -18370,8 +18377,8 @@
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -2.5 -1.71)
-			(end 2.5 -1.71)
+			(start -4.61 -1.86)
+			(end -4.61 1.86)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -18380,8 +18387,18 @@
 			(uuid "60322390-052e-4f37-9679-e189c9fdaf51")
 		)
 		(fp_line
-			(start -2.5 1.71)
-			(end 2.5 1.71)
+			(start -4.61 1.86)
+			(end 2.76 1.86)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "f460099f-1818-48c0-9164-b321d1a5005d")
+		)
+		(fp_line
+			(start 2.76 -1.86)
+			(end -4.61 -1.86)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -18389,88 +18406,42 @@
 			(layer "F.SilkS")
 			(uuid "83647f14-1a80-4d84-95d8-6b38d8995190")
 		)
-		(fp_line
-			(start -2.95 -1.85)
-			(end -2.95 1.85)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "f460099f-1818-48c0-9164-b321d1a5005d")
-		)
-		(fp_line
-			(start -2.95 -1.85)
-			(end 2.95 -1.85)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "0820374c-5dd6-4438-9b42-436578b60080")
-		)
-		(fp_line
-			(start 2.95 -1.85)
-			(end 2.95 1.85)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "be4f1c0f-dfdd-49d0-9054-7557a6298a32")
-		)
-		(fp_line
-			(start 2.95 1.85)
-			(end -2.95 1.85)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "1753a04b-1899-44c7-9dc7-26b1cc7239b8")
-		)
-		(fp_line
-			(start -2.5 -1.6)
-			(end -2.5 1.6)
+		(fp_circle
+			(center 0 0)
+			(end 0.4 0)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "e9bda813-b911-486c-86ed-dff1274e3cee")
+			(fill yes)
+			(layer "F.Adhes")
+			(uuid "63d2098b-7677-4513-a4fb-bbbb17454caa")
 		)
-		(fp_line
-			(start -2.5 -1.6)
-			(end 2.5 -1.6)
+		(fp_rect
+			(start -4.6 -2.1)
+			(end 4.6 2.1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "2e12ef06-c718-418a-8571-67a251cd9741")
+		)
+		(fp_poly
+			(pts
+				(xy 2.5 -1.6) (xy 2.5 1.6) (xy -1.7 1.6) (xy -2.5 0.8) (xy -2.5 -1.6)
+			)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
+			(fill no)
 			(layer "F.Fab")
-			(uuid "e94fbffd-6031-4a3f-b0eb-589ed4a3486c")
-		)
-		(fp_line
-			(start -2.5 1.6)
-			(end 2.5 1.6)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "6bb05cb4-b403-484b-810a-f846cd02fb53")
-		)
-		(fp_line
-			(start 2.5 -1.6)
-			(end 2.5 1.6)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "79123820-fb83-4f37-8c63-2d355e243514")
+			(uuid "83d55350-2276-4d3b-9341-dac2cc61c392")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.5 0)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "8ed49fcc-3e39-43f9-a3a1-d02b0b0f8f9f")
 			(effects
@@ -18480,26 +18451,28 @@
 				)
 			)
 		)
-		(pad "1" smd rect
-			(at -1.85 0)
-			(size 1.7 2.4)
+		(pad "1" smd roundrect
+			(at -2.6 0)
+			(size 3.5 2.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.104167)
 			(net "Net-(U3-XTALO)")
 			(pinfunction "1_1")
 			(pintype "passive")
 			(uuid "563bf02c-0d32-46c9-b98f-4b847ae8a52a")
 		)
-		(pad "2" smd rect
-			(at 1.85 0)
-			(size 1.7 2.4)
+		(pad "2" smd roundrect
+			(at 2.6 0)
+			(size 3.5 2.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.104167)
 			(net "Net-(U3-XTALI)")
 			(pinfunction "2_2")
 			(pintype "passive")
 			(uuid "61ab4003-771a-4b9a-a052-25d7e90261eb")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_TXC_7A-2Pin_5x3.2mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_5032-2Pin_5.0x3.2mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
