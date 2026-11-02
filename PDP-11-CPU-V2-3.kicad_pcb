@@ -8651,6 +8651,17 @@
 			(uuid "e61da00e-4de3-4581-a209-25e95ebcd2ff")
 		)
 		(embedded_fonts no)
+		(model "/Users/peter/Documents/KiCad/10.0/symbols/CH291-1220LF--3DModel-STEP-740395.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -90)
+			)
+		)
 	)
 	(footprint "Connector_DIN:DIN41612_C_2x32_Male_Horizontal_THT"
 		(layer "F.Cu")
